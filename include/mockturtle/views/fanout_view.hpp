@@ -219,7 +219,7 @@ public:
     }
   }
 
-private:
+public:
   void register_events()
   {
     if ( _ps.update_on_add )
